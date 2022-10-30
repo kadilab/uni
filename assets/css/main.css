@@ -666,7 +666,7 @@ section {
 .about .content ul li {
   display: flex;
   align-items: flex-start;
-  margin-top: 40px;
+  margin-top: 20px;
 }
 
 .about .content ul i {
